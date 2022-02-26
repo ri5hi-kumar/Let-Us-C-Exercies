@@ -1,0 +1,2 @@
+this is the text file for practice
+this is the second line of first file
